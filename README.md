@@ -1,4 +1,4 @@
-#SendGrid Magic Mail Demo
+#SendGrid Vanish Mail Demo
 
 This hack shows how it is possible to create and send self-destructing/vanishing emails to any email address. 
 
